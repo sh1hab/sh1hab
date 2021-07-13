@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1hab)](https://github.com/sh1hab/github-readme-stats)
+
 ![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh1hab&count_private=true)
 
 

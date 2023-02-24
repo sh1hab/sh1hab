@@ -1,48 +1,43 @@
-![HEY, I'M AKSHAY](https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<div align="center"> 
-<i>Random dev joke for you!</i></br></br>
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 
-###  Watch my Contribution Graph get eaten by the snake 🥳
-![snake gif](https://raw.githubusercontent.com/sh1hab/sh1hab/output/github-contribution-grid-snake.svg)
+I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
-<a><h2>Stats</h2></a>
-<div>
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=sh1hab&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sh1hab&theme=shades-of-purple&hide_border=true"/>
-    </a>
-  </div>
-  </br>
+I love to read books and drink coffee.
 
+- 🔭 Currently i am available to work on open souce projects based on PHP, JavaScript .
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 💬 Ask me about Vue.js, PHP, Laravel and API development.
+- 📫 I am just one mail away - [shihab dot gsc10 @ gmail dot com]
+- 😄 Pronouns: He & Happy 😄
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Numbers
+![Shihab's Stats](https://github-readme-stats.vercel.app/api?username=sh1hab&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-  
- </br>
+![Shihab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sh1hab&theme=darcula&hide_border=true)
 
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sh1hab&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Shihab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1hab&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
- 
-  
-### Profile Views
+### Where to find me
 
-![](https://count.getloli.com/get/@sh1hab.github.readme)
-</br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
-
-
-<div>
-	</br>
-	</div>
-
-![HEY, I'M sh1hab (1)](https://user-images.githubusercontent.com/58532023/170817094-f9208f31-7889-49c9-81ae-2db37213902a.svg)
-![](https://hit.yhype.me/github/profile?user_id=58532023)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh1hab/) 

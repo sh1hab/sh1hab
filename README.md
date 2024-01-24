@@ -6,7 +6,6 @@
 
 <br/>
 ⚡ Software Engineer.
-⚡ Backend Engineer.
 ⚡ 5+ years. 
 <br />
 

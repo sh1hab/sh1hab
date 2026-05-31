@@ -6,10 +6,10 @@
 
 <br/>
 ⚡ Software Engineer.
-⚡ 5+ years. 
+⚡ 8+ years. 
 <br />
 
-![Kawser's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh1hab&show_icons=true&theme=dracula)
+![Shihab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh1hab&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh1hab&langs_count=7&hide=css&layout=compact)](https://github.com/sh1hab/github-readme-stats)
 
 ### Languages and Tools:

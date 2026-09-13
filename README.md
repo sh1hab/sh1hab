@@ -6,7 +6,7 @@
 
 <br/>
 ⚡ Software Engineer.
-⚡ 8+ years. 
+⚡ 5 years. 
 <br />
 
 ![Shihab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh1hab&show_icons=true&theme=dracula)
